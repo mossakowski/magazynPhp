@@ -1,0 +1,12 @@
+        #updateList {
+            position: fixed;
+            bottom: 10px;
+            left: 48%;
+        }
+        
+        .full-height {
+            height: 100vh;
+        }
+        .inputWidth {
+            width: 50px;
+        }
